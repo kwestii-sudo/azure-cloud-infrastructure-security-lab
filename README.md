@@ -346,19 +346,7 @@ The Azure portal provides a graphical interface, while Azure CLI provides a repe
 
 ---
 
-## 14. Terraform
-
-### Status: Skipped
-
-I briefly initialized and validated a local Terraform configuration, but intentionally stopped before `terraform apply`.
-
-No Azure resources were created or managed by Terraform.
-
-Because Terraform was not part of the completed implementation, its screenshots and files are excluded from the public GitHub project.
-
----
-
-## 15. Architecture Documentation
+## 14. Architecture Documentation
 
 After completing the environment, I created a final architecture diagram.
 
