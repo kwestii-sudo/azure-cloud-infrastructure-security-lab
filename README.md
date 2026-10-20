@@ -488,7 +488,6 @@ azure-cloud-infrastructure-security-lab/
 
 - Linux VM deployment was intentionally skipped
 - Microsoft Sentinel was intentionally excluded
-- Terraform was explored locally but not used to deploy Azure resources
 - Azure Firewall was not deployed
 - Azure Bastion was not deployed
 - Final Windows VM design does not rely on permanent public RDP access
